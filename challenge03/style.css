@@ -1,0 +1,35 @@
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+  }
+
+  .container {
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .hero {
+    background-color: #23424A;
+    padding: 50px 0;
+    color: white;
+  }
+
+  .hero-text {
+    width: 55%;
+  }
+  
+  .hero-btn {
+    background: #38CFD9;
+    border-radius: 32px 32px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    margin-top: 20px;
+  }
